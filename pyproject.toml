@@ -2,7 +2,7 @@
 name = "zupython"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Vitor Gabriel <edvitor13@hotmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
