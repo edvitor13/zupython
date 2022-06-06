@@ -9,14 +9,12 @@ python = "^3.9"
 # Como instalar
 
 ```fix
-cd zupython
 python -m pip install -r requirements.txt
 ```
 
 # Como iniciar a API
 
 ```js
-cd zupython
 uvicorn main:app --port 8000 --reload
 ```
 
