@@ -9,6 +9,8 @@ python = "^3.9"
 # Como instalar
 
 ```fix
+git clone https://github.com/edvitor13/zupython.git
+cd zupython
 python -m pip install -r requirements.txt
 ```
 
